@@ -1,0 +1,108 @@
+
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <style>
+                body { font-family: -apple-system, sans-serif; background: #f6f8fa; padding: 20px; }
+                .diff-container { background: white; border: 1px solid #d0d7de; border-radius: 6px; margin-bottom: 40px; }
+                .diff-header-bar { background: #f6f8fa; padding: 12px; border-bottom: 1px solid #d0d7de; font-weight: bold; font-size: 14px; }
+                table.diff { width: 100%; font-family: monospace; font-size: 12px; border-collapse: collapse; }
+                .diff_header { background: #f1f8ff; text-align: right; width: 40px; padding: 0 5px; border-right: 1px solid #d0d7de; color: #57606a; }
+                .diff_add { background: #e6ffed; } .diff_chg { background: #fffbdd; } .diff_sub { background: #ffeef0; }
+                .diff_next { display: none; }
+                td { padding: 2px 10px; line-height: 1.5; }
+            </style>
+        </head>
+        <body>
+            <h1>Ablation Summary: masarno</h1>
+            
+                            <div class="diff-container">
+                                <div class="diff-header-bar">
+                                    <strong>[ensembling/1]</strong> <code>utils/inference_utils.py</code>
+                                </div>
+                                
+    <table class="diff" id="difflib_chg_to12__top"
+           cellspacing="0" cellpadding="0" rules="groups" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class="diff_next"><br /></th><th colspan="2" class="diff_header">Original</th><th class="diff_next"><br /></th><th colspan="2" class="diff_header">Ablated (ensembling/1)</th></tr></thead>
+        <tbody>
+            <tr><td class="diff_next" id="difflib_chg_to12__0"></td><td class="diff_header" id="from12_469">469</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.model_config.checkpoint&nbsp;=&nbsp;sorted(Path(self.model_config.checkpoint).glob("*.pth"))</td><td class="diff_next"></td><td class="diff_header" id="to12_469">469</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.model_config.checkpoint&nbsp;=&nbsp;sorted(Path(self.model_config.checkpoint).glob("*.pth"))</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_470">470</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Loading&nbsp;detection&nbsp;model...")</td><td class="diff_next"></td><td class="diff_header" id="to12_470">470</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Loading&nbsp;detection&nbsp;model...")</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_471">471</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(len(self.model_config.checkpoint)):</td><td class="diff_next"></td><td class="diff_header" id="to12_471">471</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(len(self.model_config.checkpoint)):</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_472">472</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models.append(self.load_model(i))</td><td class="diff_next"></td><td class="diff_header" id="to12_472">472</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models.append(self.load_model(i))</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_473">473</td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to12_473">473</td><td nowrap="nowrap"></td></tr>
+            <tr><td class="diff_next"><a href="#difflib_chg_to12__top">t</a></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"><a href="#difflib_chg_to12__top">t</a></td><td class="diff_header" id="to12_474">474</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Ensembling&nbsp;ablation</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to12_475">475</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MODEL_SELECT=0</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to12_476">476</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models&nbsp;=&nbsp;self.models[MODEL_SELECT:MODEL_SELECT+1]</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to12_477">477</td><td nowrap="nowrap"><span class="diff_add">&nbsp;</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_474">474</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Load&nbsp;inference&nbsp;strategy&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to12_478">478</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Load&nbsp;inference&nbsp;strategy&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_475">475</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Initializing&nbsp;inference&nbsp;strategy...")</td><td class="diff_next"></td><td class="diff_header" id="to12_479">479</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Initializing&nbsp;inference&nbsp;strategy...")</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_476">476</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.strategy&nbsp;=&nbsp;Torchvision_Inference(</td><td class="diff_next"></td><td class="diff_header" id="to12_480">480</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.strategy&nbsp;=&nbsp;Torchvision_Inference(</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_477">477</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to12_481">481</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models,&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from12_478">478</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.inference_config,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to12_482">482</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.inference_config,&nbsp;</td></tr>
+        </tbody>
+    </table>
+                            </div>
+                        
+                            <div class="diff-container">
+                                <div class="diff-header-bar">
+                                    <strong>[ensembling/2]</strong> <code>utils/inference_utils.py</code>
+                                </div>
+                                
+    <table class="diff" id="difflib_chg_to13__top"
+           cellspacing="0" cellpadding="0" rules="groups" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class="diff_next"><br /></th><th colspan="2" class="diff_header">Original</th><th class="diff_next"><br /></th><th colspan="2" class="diff_header">Ablated (ensembling/2)</th></tr></thead>
+        <tbody>
+            <tr><td class="diff_next" id="difflib_chg_to13__0"></td><td class="diff_header" id="from13_469">469</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.model_config.checkpoint&nbsp;=&nbsp;sorted(Path(self.model_config.checkpoint).glob("*.pth"))</td><td class="diff_next"></td><td class="diff_header" id="to13_469">469</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.model_config.checkpoint&nbsp;=&nbsp;sorted(Path(self.model_config.checkpoint).glob("*.pth"))</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_470">470</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Loading&nbsp;detection&nbsp;model...")</td><td class="diff_next"></td><td class="diff_header" id="to13_470">470</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Loading&nbsp;detection&nbsp;model...")</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_471">471</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(len(self.model_config.checkpoint)):</td><td class="diff_next"></td><td class="diff_header" id="to13_471">471</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(len(self.model_config.checkpoint)):</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_472">472</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models.append(self.load_model(i))</td><td class="diff_next"></td><td class="diff_header" id="to13_472">472</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models.append(self.load_model(i))</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_473">473</td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to13_473">473</td><td nowrap="nowrap"></td></tr>
+            <tr><td class="diff_next"><a href="#difflib_chg_to13__top">t</a></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"><a href="#difflib_chg_to13__top">t</a></td><td class="diff_header" id="to13_474">474</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Ensembling&nbsp;ablation</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to13_475">475</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MODEL_SELECT=1</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to13_476">476</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models&nbsp;=&nbsp;self.models[MODEL_SELECT:MODEL_SELECT+1]</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to13_477">477</td><td nowrap="nowrap"><span class="diff_add">&nbsp;</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_474">474</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Load&nbsp;inference&nbsp;strategy&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to13_478">478</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Load&nbsp;inference&nbsp;strategy&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_475">475</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Initializing&nbsp;inference&nbsp;strategy...")</td><td class="diff_next"></td><td class="diff_header" id="to13_479">479</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Initializing&nbsp;inference&nbsp;strategy...")</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_476">476</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.strategy&nbsp;=&nbsp;Torchvision_Inference(</td><td class="diff_next"></td><td class="diff_header" id="to13_480">480</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.strategy&nbsp;=&nbsp;Torchvision_Inference(</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_477">477</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to13_481">481</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models,&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from13_478">478</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.inference_config,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to13_482">482</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.inference_config,&nbsp;</td></tr>
+        </tbody>
+    </table>
+                            </div>
+                        
+                            <div class="diff-container">
+                                <div class="diff-header-bar">
+                                    <strong>[ensembling/3]</strong> <code>utils/inference_utils.py</code>
+                                </div>
+                                
+    <table class="diff" id="difflib_chg_to14__top"
+           cellspacing="0" cellpadding="0" rules="groups" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class="diff_next"><br /></th><th colspan="2" class="diff_header">Original</th><th class="diff_next"><br /></th><th colspan="2" class="diff_header">Ablated (ensembling/3)</th></tr></thead>
+        <tbody>
+            <tr><td class="diff_next" id="difflib_chg_to14__0"></td><td class="diff_header" id="from14_469">469</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.model_config.checkpoint&nbsp;=&nbsp;sorted(Path(self.model_config.checkpoint).glob("*.pth"))</td><td class="diff_next"></td><td class="diff_header" id="to14_469">469</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.model_config.checkpoint&nbsp;=&nbsp;sorted(Path(self.model_config.checkpoint).glob("*.pth"))</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_470">470</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Loading&nbsp;detection&nbsp;model...")</td><td class="diff_next"></td><td class="diff_header" id="to14_470">470</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Loading&nbsp;detection&nbsp;model...")</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_471">471</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(len(self.model_config.checkpoint)):</td><td class="diff_next"></td><td class="diff_header" id="to14_471">471</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(len(self.model_config.checkpoint)):</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_472">472</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models.append(self.load_model(i))</td><td class="diff_next"></td><td class="diff_header" id="to14_472">472</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models.append(self.load_model(i))</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_473">473</td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to14_473">473</td><td nowrap="nowrap"></td></tr>
+            <tr><td class="diff_next"><a href="#difflib_chg_to14__top">t</a></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"><a href="#difflib_chg_to14__top">t</a></td><td class="diff_header" id="to14_474">474</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Ensembling&nbsp;ablation</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to14_475">475</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MODEL_SELECT=2</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to14_476">476</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models&nbsp;=&nbsp;self.models[MODEL_SELECT:MODEL_SELECT+1]</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to14_477">477</td><td nowrap="nowrap"><span class="diff_add">&nbsp;</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_474">474</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Load&nbsp;inference&nbsp;strategy&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to14_478">478</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Load&nbsp;inference&nbsp;strategy&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_475">475</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Initializing&nbsp;inference&nbsp;strategy...")</td><td class="diff_next"></td><td class="diff_header" id="to14_479">479</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.info("Initializing&nbsp;inference&nbsp;strategy...")</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_476">476</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.strategy&nbsp;=&nbsp;Torchvision_Inference(</td><td class="diff_next"></td><td class="diff_header" id="to14_480">480</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.strategy&nbsp;=&nbsp;Torchvision_Inference(</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_477">477</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to14_481">481</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.models,&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from14_478">478</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.inference_config,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to14_482">482</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.inference_config,&nbsp;</td></tr>
+        </tbody>
+    </table>
+                            </div>
+                        
+        </body>
+        </html>
+        
