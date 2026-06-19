@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Inference predictions — raw per-image outputs, not needed for figures
+Data/track*/*/[0-9]*/
+Data/track*/*/[0-9][0-9]*/
+Data/track*/*/[0-9][0-9][0-9]*/
+Data/track*/*/ablations/*/[0-9]*/
+
+# Never commit the full paper workspace (annotation data, raw predictions, SQLite)
+MIDOG\ 2025\ paper/
+
+# Paper draft — keep out of public repo
+paper/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated figures (reproducible from scripts)
+figures_preview/
+*.pdf
+*.svg
+*.png

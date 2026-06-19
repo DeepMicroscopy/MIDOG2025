@@ -1,0 +1,366 @@
+Slide;OrigSlide;Tumor;roi_type
+001.tiff;WF22-001 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+002.tiff;WF22-002 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+003.tiff;WF22-004 Melanoma UMCUtrecht - 2022-06-10 16.tiff;hMel;hotspot
+004.tiff;WF22-006 Melanoma UMCUtrecht - 2022-06-10 16.tiff;hMel;hotspot
+005.tiff;WF22-007 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+006.tiff;WF22-009 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+007.tiff;WF22-011 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+008.tiff;WF22-012 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+009.tiff;WF22-014 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+010.tiff;WF22-015 Melanoma UMCUtrecht - 2022-06-10 17.tiff;hMel;hotspot
+011.tiff;N1009_19_I.tiff;hAC;hotspot
+012.tiff;N1111_19.tiff;hAC;hotspot
+013.tiff;N1396_21_I1.tiff;hAC;hotspot
+014.tiff;N1396_21_I1_HE - 2022-07-15 09.tiff;hAC;hotspot
+015.tiff;N145_20_2.tiff;hAC;hotspot
+016.tiff;N1497_21_II2_HE - 2022-07-15 09.tiff;hAC;hotspot
+017.tiff;N1719_21_2_HE - 2022-07-15 09.tiff;hAC;hotspot
+018.tiff;N180_20_I3.tiff;hAC;hotspot
+019.tiff;N71_22_HE - 2022-07-15 09.tiff;hAC;hotspot
+020.tiff;N949_20.tiff;hAC;hotspot
+021.tiff;1-21-36780Wien.tiff;hBlC;hotspot
+022.tiff;10_TUR_LWien.tiff;hBlC;hotspot
+023.tiff;117_TURWien.tiff;hBlC;hotspot
+024.tiff;1_Prim_2Wien.tiff;hBlC;hotspot
+025.tiff;260_TUR_2Wien.tiff;hBlC;hotspot
+026.tiff;35_UTULWien.tiff;hBlC;hotspot
+027.tiff;39_PER3Wien.tiff;hBlC;hotspot
+028.tiff;4_OTHBWien.tiff;hBlC;hotspot
+029.tiff;5_PUL2Wien.tiff;hBlC;hotspot
+030.tiff;70_A_PRIMWien.tiff;hBlC;hotspot
+031.tiff;F6153_21.tiff;cMC;hotspot
+032.tiff;F6228_21.tiff;cMC;hotspot
+033.tiff;K5859_21.tiff;cMC;hotspot
+034.tiff;MC_A6078_13.tiff;cMC;hotspot
+035.tiff;R6008_21.tiff;cMC;hotspot
+036.tiff;T5736_21.tiff;cMC;hotspot
+037.tiff;T6311_21.tiff;cMC;hotspot
+038.tiff;MC_G7604_13.tiff;cMC;hotspot
+039.tiff;MC_R5026_16.tiff;cMC;hotspot
+040.tiff;MC_R6888_13.tiff;cMC;hotspot
+041.tiff;E1586_09_A.tiff;ccMCT;hotspot
+042.tiff;E2092_08_A.tiff;ccMCT;hotspot
+043.tiff;E2372_09_C.tiff;ccMCT;hotspot
+044.tiff;E2485_08_B.tiff;ccMCT;hotspot
+045.tiff;E2587_08_A.tiff;ccMCT;hotspot
+046.tiff;E2980_09_C.tiff;ccMCT;hotspot
+047.tiff;E3038_09.tiff;ccMCT;hotspot
+048.tiff;E3537_08A.tiff;ccMCT;hotspot
+049.tiff;E507_08_B.tiff;ccMCT;hotspot
+050.tiff;E845_08_D.tiff;ccMCT;hotspot
+051.tiff;N1920_20_1_HE.tif;hMen;hotspot
+052.tiff;N380_21_I2_HE.tif;hMen;hotspot
+053.tiff;N474_20_1_HE.tif;hMen;hotspot
+054.tiff;N533_21_Z_HE.tif;hMen;hotspot
+055.tiff;N546_21_III_HE.tif;hMen;hotspot
+056.tiff;N556_21_2_HE.tif;hMen;hotspot
+057.tiff;N632_21_Z_HE.tif;hMen;hotspot
+058.tiff;N644_21_II2_HE.tif;hMen;hotspot
+059.tiff;N704_21_2_HE.tif;hMen;hotspot
+060.tiff;N711_21_Z_HE.tif;hMen;hotspot
+061.tiff;WF22-002 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+062.tiff;WF22-003 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+063.tiff;WF22-004 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+064.tiff;WF22-006 Colon UMCUtrecht.tiff;hCoC;hotspot
+065.tiff;WF22-007 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+066.tiff;WF22-008 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+067.tiff;WF22-009 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+068.tiff;WF22-010 Colon UMCUtrecht - 2022-06-10 16.tiff;hCoC;hotspot
+069.tiff;WF22-013 Colon UMCUtrecht - 2022-06-10 17.tiff;hCoC;hotspot
+070.tiff;WF22-014 Colon UMCUtrecht - 2022-06-10 17.tiff;hCoC;hotspot
+071.tiff;HSA_F5019_22_A.tiff;cHAS;hotspot
+072.tiff;HSA_F5881_22.tiff;cHAS;hotspot
+073.tiff;HSA_F6689_21.tiff;cHAS;hotspot
+074.tiff;HSA_K6384_21.tiff;cHAS;hotspot
+075.tiff;HSA_K6600_21_1.tiff;cHAS;hotspot
+076.tiff;HSA_K6944_21_2.tiff;cHAS;hotspot
+077.tiff;HSA_R7275_21.tiff;cHAS;hotspot
+078.tiff;HSA_T5079_22.tiff;cHAS;hotspot
+079.tiff;HSA_T5428_21_1.tiff;cHAS;hotspot
+080.tiff;HSA_V6029_20.tiff;cHAS;hotspot
+081.tiff;STS_A7057_20.tiff;fSTS;hotspot
+082.tiff;STS_G6306_17.tiff;fSTS;hotspot
+083.tiff;STS_K5066_21_1.tiff;fSTS;hotspot
+084.tiff;STS_R5402_22_A.tiff;fSTS;hotspot
+085.tiff;STS_R7115_21.tiff;fSTS;hotspot
+086.tiff;STS_S6767_18.tiff;fSTS;hotspot
+087.tiff;STS_T6760_21.tiff;fSTS;hotspot
+088.tiff;STS_T6894_21_1.tiff;fSTS;hotspot
+089.tiff;STS_T7183_21.tiff;fSTS;hotspot
+090.tiff;STS_V5550_21.tiff;fSTS;hotspot
+091.tiff;A5302_17_2_HE_batch1.tiff;fLym;hotspot
+092.tiff;A5920_16_HE_batch1.tiff;fLym;hotspot
+093.tiff;A6275_19_2_batch1.tiff;fLym;hotspot
+094.tiff;A6726_17_HE_batch1.tiff;fLym;hotspot
+095.tiff;A7272_17_HE_batch1.tiff;fLym;hotspot
+096.tiff;A7289_19_HE_batch1.tiff;fLym;hotspot
+097.tiff;A7319_19_3_HE_batch1.tiff;fLym;hotspot
+098.tiff;A7349_17_pHH3_HE_batch1.tiff;fLym;hotspot
+099.tiff;A7523_19_1_HE_batch1.tiff;fLym;hotspot
+100.tiff;F6242_21_Lymphom_HE_batch1.tiff;fLym;hotspot
+101.tiff;17136_22_Aa_HE_20241111_2x387221_y146831_z0_w13466_h10094.tiff;hGBM;hotspot
+102.tiff;15254_22_B3_HE_20241107_1x391624_y189094_z0_w13466_h10094.tiff;hGBM;hotspot
+103.tiff;243_24_A3_HE_20241107_1x73520_y279230_z0_w13466_h10094.tiff;hGBM;hotspot
+104.tiff;18688_22_A1_HE_20250115_1_x439531_y135853_z0_w13466_h10094.tiff;hGBM;hotspot
+105.tiff;643_24_A1_HE_20241107_1x69000_y257037_z0_w13466_h10094.tiff;hGBM;hotspot
+106.tiff;2142_24_A2_HE_20241104_2x438091_y220859_z0_w13466_h10094.tiff;hGBM;hotspot
+107.tiff;17876_22_A1_HE_20250115_1x101711_y223950_z0_w13466_h10094.tiff;hGBM;hotspot
+108.tiff;1387_24_A4_HE_20241104_2x475716_y266549_z0_w13466_h10094.tiff;hGBM;hotspot
+109.tiff;15479_22_A2_HE_20241111_2x355767_y173152_z0_w13466_h10094.tiff;hGBM;hotspot
+110.tiff;17113_22_A2_HE_20241111_1x90061_y98111_z0_w13466_h10094.tiff;hGBM;hotspot
+111.tiff;8394_24_A4_HE_20240911_2x371828_y241525_z0_w13466_h10094.tiff;hLUAD;hotspot
+112.tiff;6766_21_A3_HE_20240729_2_20240730112511703x400588_y263623_z0_w13466_h10094.tiff;hLUAD;hotspot
+113.tiff;3674_21_A6_HE_20240827_2x399788_y194437_z0_w13466_h10094.tiff;hLUAD;hotspot
+114.tiff;7117_21_A2_HE-20240722_2_20240724154041940x375486_y254917_z0_w13466_h10094.tiff;hLUAD;hotspot
+115.tiff;7532_21_A2_HE_20240729_1x110554_y239062_z0_w13466_h10094.tiff;hLUAD;hotspot
+116.tiff;12880_24_A6_HE_20240923_1x107867_y136804_z0_w13466_h10094.tiff;hLUAD;hotspot
+117.tiff;14674_24_A8_HE_20240923_1x78506_y148756_z0_w13466_h10094.tiff;hLUAD;hotspot
+118.tiff;7394_21_A7_HE_20240729_1x101593_y137662_z0_w13466_h10094.tiff;hLUAD;hotspot
+119.tiff;12104_24_A4_HE_20240911_1x102288_y155518_z0_w13466_h10094.tiff;hLUAD;hotspot
+120.tiff;5064_21_A4_HE_20240813_1x74252_y222686_z0_w13466_h10094.tiff;hLUAD;hotspot
+121.tiff;6214_23_A4_HE_20240730_1x147496_y138316_z0_w13466_h10094.tiff;hLUAD;hotspot
+122.tiff;2987_21_A3_HE_20240730_2x355433_y237574_z0_w13466_h10094.tiff;hLUAD;hotspot
+123.tiff;HSA_K6944_21_2_HEx11505_y29790_z0_w6577_h4933.tiff;cHAS;challenging
+124.tiff;HSA_K6600_21_1_HEx42971_y45321_z0_w6577_h4933.tiff;cHAS;challenging
+125.tiff;HSA_R7275_21_HEx26963_y40073_z0_w6577_h4933.tiff;cHAS;challenging
+126.tiff;HSA_T5079_22_HEx4681_y50416_z0_w6577_h4933.tiff;cHAS;challenging
+127.tiff;HSA_V6029_20_HEx49225_y91668_z0_w6577_h4933.tiff;cHAS;challenging
+128.tiff;HSA_K6384_21_HEx9297_y67156_z0_w6577_h4933.tiff;cHAS;challenging
+129.tiff;HSA_F5019_22_A_HEx57682_y79155_z0_w6577_h4933.tiff;cHAS;challenging
+130.tiff;HSA_T5428_21_1_HEx20528_y34506_z0_w6577_h4933.tiff;cHAS;challenging
+131.tiff;HSA_F5881_22_HEx52368_y79768_z0_w6577_h4933.tiff;cHAS;challenging
+132.tiff;HSA_F6689_21_HEx32472_y28356_z0_w6577_h4933.tiff;cHAS;challenging
+133.tiff;HSA_F5881_22_HEx33637_y65559_z0_w6567_h4925.tiff;cHAS;random
+134.tiff;HSA_R7275_21_HEx12752_y58892_z0_w6567_h4925.tiff;cHAS;random
+135.tiff;HSA_F6689_21_HEx20093_y77444_z0_w6567_h4925.tiff;cHAS;random
+136.tiff;HSA_K6600_21_1_HEx17430_y75765_z0_w6567_h4925.tiff;cHAS;random
+137.tiff;HSA_T5428_21_1_HEx11425_y85875_z0_w6567_h4925.tiff;cHAS;random
+138.tiff;HSA_T5079_22_HEx17197_y46297_z0_w6567_h4925.tiff;cHAS;random
+139.tiff;HSA_F5019_22_A_HEx31956_y76916_z0_w6567_h4925.tiff;cHAS;random
+140.tiff;HSA_V6029_20_HEx15099_y92755_z0_w6567_h4925.tiff;cHAS;random
+141.tiff;HSA_K6384_21_HEx39651_y14255_z0_w6567_h4925.tiff;cHAS;random
+142.tiff;HSA_K6944_21_2_HEx27359_y86380_z0_w6567_h4925.tiff;cHAS;random
+143.tiff;R6008_21_HEx44613_y104257_z0_w6577_h4933.tiff;cMC;challenging
+144.tiff;T5736_21_HEx25838_y22139_z0_w6577_h4933.tiff;cMC;challenging
+145.tiff;F6228_21_HEx58238_y75953_z0_w6577_h4933.tiff;cMC;challenging
+146.tiff;T6311_21_HEx18486_y70668_z0_w6577_h4933.tiff;cMC;challenging
+147.tiff;K5859_21_HEx41931_y58970_z0_w6577_h4933.tiff;cMC;challenging
+148.tiff;F6153_21_HEx13954_y47565_z0_w6577_h4933.tiff;cMC;challenging
+149.tiff;MC_A6078_13_HEx48492_y79969_z0_w6577_h4933.tiff;cMC;challenging
+150.tiff;MC_R5026_16_HEx57456_y43952_z0_w6577_h4933.tiff;cMC;challenging
+151.tiff;MC_G7604_13_HEx147_y82361_z0_w6577_h4933.tiff;cMC;challenging
+152.tiff;MC_R6888_13_HEx25894_y103277_z0_w6577_h4933.tiff;cMC;challenging
+153.tiff;K5859_21_HEx48063_y134782_z0_w6567_h4925.tiff;cMC;random
+154.tiff;F6228_21_HEx23199_y56843_z0_w6567_h4925.tiff;cMC;random
+155.tiff;R6008_21_HEx60734_y124279_z0_w6567_h4925.tiff;cMC;random
+156.tiff;F6153_21_HEx61942_y59325_z0_w6567_h4925.tiff;cMC;random
+157.tiff;T5736_21_HEx39035_y99920_z0_w6567_h4925.tiff;cMC;random
+158.tiff;MC_A6078_13_HEx3509_y41608_z0_w6567_h4925.tiff;cMC;random
+159.tiff;T6311_21_HEx9207_y103997_z0_w6567_h4925.tiff;cMC;random
+160.tiff;MC_G7604_13_HEx27795_y82574_z0_w6567_h4925.tiff;cMC;random
+161.tiff;MC_R6888_13_HEx38000_y41563_z0_w6567_h4925.tiff;cMC;random
+162.tiff;MC_R5026_16_HEx56929_y51037_z0_w6531_h4898.tiff;cMC;random
+163.tiff;E2587_08_A_HE_Berlin_ - 2021-05-18 14.43.03x88498_y44185_z0_w6577_h4933.tiff;ccMCT;challenging
+164.tiff;E2092_08_A_HE_Berlin_ - 2021-05-18 17.36.37x35409_y29423_z0_w6577_h4933.tiff;ccMCT;challenging
+165.tiff;E507_08_B_HE_Berlin_ - 2021-05-18 17.03.58x46764_y11178_z0_w6577_h4933.tiff;ccMCT;challenging
+166.tiff;E2485_08_B_HE_Berlin_ - 2021-05-18 16.51.09x103652_y56771_z0_w6577_h4933.tiff;ccMCT;challenging
+167.tiff;E2980_09_C_HE_Berlin_ - 2021-05-18 14.28.44x76144_y10513_z0_w6577_h4933.tiff;ccMCT;challenging
+168.tiff;E2372_09_C_HE_Berlin_ - 2021-05-18 14.01.48x122607_y38893_z0_w6577_h4933.tiff;ccMCT;challenging
+169.tiff;E845_08_D_HE_Berlin_ - 2021-05-18 17.23.12x96741_y24116_z0_w6577_h4933.tiff;ccMCT;challenging
+170.tiff;E3537_08_A_HE_Berlin_ - 2021-05-18 16.23.33x106279_y69366_z0_w6577_h4933.tiff;ccMCT;challenging
+171.tiff;E1586_09_A_HE_Berlin_ - 2021-05-18 13.52.37x87615_y68806_z0_w6577_h4933.tiff;ccMCT;challenging
+172.tiff;E3038_09_HE_Berlin_ - 2021-05-18 14.22.08x16948_y40642_z0_w6577_h4933.tiff;ccMCT;challenging
+173.tiff;E2372_09_C_HE_Berlin_ - 2021-05-18 14.01.48x88937_y23085_z0_w7104_h5328.tiff;ccMCT;random
+174.tiff;E2980_09_C_HE_Berlin_ - 2021-05-18 14.28.44x52077_y48696_z0_w7104_h5328.tiff;ccMCT;random
+175.tiff;E3038_09_HE_Berlin_ - 2021-05-18 14.22.08x74715_y50333_z0_w7104_h5328.tiff;ccMCT;random
+176.tiff;E2092_08_A_HE_Berlin_ - 2021-05-18 17.36.37x127832_y58969_z0_w7104_h5328.tiff;ccMCT;random
+177.tiff;E1586_09_A_HE_Berlin_ - 2021-05-18 13.52.37x81240_y35008_z0_w7104_h5328.tiff;ccMCT;random
+178.tiff;E3537_08_A_HE_Berlin_ - 2021-05-18 16.23.33x77812_y35834_z0_w7104_h5328.tiff;ccMCT;random
+179.tiff;E2587_08_A_HE_Berlin_ - 2021-05-18 14.43.03x53314_y75518_z0_w7104_h5328.tiff;ccMCT;random
+180.tiff;E507_08_B_HE_Berlin_ - 2021-05-18 17.03.58x35353_y25970_z0_w7104_h5328.tiff;ccMCT;random
+181.tiff;E2485_08_B_HE_Berlin_ - 2021-05-18 16.51.09x126921_y70379_z0_w7104_h5328.tiff;ccMCT;random
+182.tiff;E845_08_D_HE_Berlin_ - 2021-05-18 17.23.12x57065_y78511_z0_w7104_h5328.tiff;ccMCT;random
+183.tiff;F6242_21_Lymphom_HEx16431_y78705_z0_w6577_h4933.tiff;fLym;challenging
+184.tiff;A6726_17_HEx32770_y32014_z0_w6577_h4933.tiff;fLym;challenging
+185.tiff;A7289_19_HEx54787_y121309_z0_w6577_h4933.tiff;fLym;challenging
+186.tiff;A6275_19_2_HEx95_y19324_z0_w6577_h4933.tiff;fLym;challenging
+187.tiff;A7349_17_pHH3_HEx41563_y19788_z0_w6577_h4933.tiff;fLym;challenging
+188.tiff;A7319_19_3_HEx32550_y35918_z0_w6577_h4933.tiff;fLym;challenging
+189.tiff;A5920_16_HEx26195_y21096_z0_w6577_h4933.tiff;fLym;challenging
+190.tiff;A7523_19_1_HEx34914_y43799_z0_w6577_h4933.tiff;fLym;challenging
+191.tiff;A5302_17_2_HEx52501_y41411_z0_w6577_h4933.tiff;fLym;challenging
+192.tiff;A7272_17_HEx20762_y49715_z0_w6577_h4933.tiff;fLym;challenging
+193.tiff;A5302_17_2_HEx17657_y49111_z0_w6567_h4925.tiff;fLym;random
+194.tiff;A6275_19_2_HEx23324_y30875_z0_w6567_h4925.tiff;fLym;random
+195.tiff;A6726_17_HEx6214_y106730_z0_w6567_h4925.tiff;fLym;random
+196.tiff;A7349_17_pHH3_HEx41513_y49231_z0_w6567_h4925.tiff;fLym;random
+197.tiff;A5920_16_HEx59369_y103669_z0_w6567_h4925.tiff;fLym;random
+198.tiff;A7523_19_1_HEx46552_y66497_z0_w6567_h4925.tiff;fLym;random
+199.tiff;A7272_17_HEx43133_y52095_z0_w6567_h4925.tiff;fLym;random
+200.tiff;F6242_21_Lymphom_HEx28145_y113070_z0_w6567_h4925.tiff;fLym;random
+201.tiff;A7289_19_HEx55258_y101673_z0_w6567_h4925.tiff;fLym;random
+202.tiff;A7319_19_3_HEx47626_y47104_z0_w6567_h4925.tiff;fLym;random
+203.tiff;STS_A7057_20_HEx19171_y83224_z0_w7406_h5555.tiff;fSTS;challenging
+204.tiff;STS_R7115_21_HEx47865_y110119_z0_w7406_h5555.tiff;fSTS;challenging
+205.tiff;STS_T7183_21_HEx12585_y26771_z0_w6577_h4933.tiff;fSTS;challenging
+206.tiff;STS_R5402_22_A_HEx41741_y130314_z0_w7406_h5555.tiff;fSTS;challenging
+207.tiff;STS_T6760_21_HEx38943_y36991_z0_w7406_h5555.tiff;fSTS;challenging
+208.tiff;STS_S6767_18_HEx21980_y104203_z0_w7406_h5555.tiff;fSTS;challenging
+209.tiff;STS_K5066_21_1_HEx45147_y84330_z0_w7406_h5555.tiff;fSTS;challenging
+210.tiff;STS_V5550_21_HEx15428_y45121_z0_w6577_h4933.tiff;fSTS;challenging
+211.tiff;STS_T6894_21_1_HEx13636_y129278_z0_w6577_h4933.tiff;fSTS;challenging
+212.tiff;STS_G6306_17_HEx43723_y39806_z0_w7406_h5555.tiff;fSTS;challenging
+213.tiff;STS_K5066_21_1_HEx56935_y56384_z0_w6567_h4925.tiff;fSTS;random
+214.tiff;STS_S6767_18_HEx48610_y65378_z0_w6567_h4925.tiff;fSTS;random
+215.tiff;STS_R5402_22_A_HEx8689_y105879_z0_w6567_h4925.tiff;fSTS;random
+216.tiff;STS_R7115_21_HEx11777_y32219_z0_w6567_h4925.tiff;fSTS;random
+217.tiff;STS_T6894_21_1_HEx26627_y78603_z0_w6567_h4925.tiff;fSTS;random
+218.tiff;STS_V5550_21_HEx58733_y50815_z0_w6567_h4925.tiff;fSTS;random
+219.tiff;STS_G6306_17_HEx30222_y49975_z0_w6567_h4925.tiff;fSTS;random
+220.tiff;STS_A7057_20_HEx16726_y56702_z0_w6567_h4925.tiff;fSTS;random
+221.tiff;STS_T7183_21_HEx59382_y34259_z0_w6567_h4925.tiff;fSTS;random
+222.tiff;STS_T6760_21_HEx10844_y68041_z0_w6567_h4925.tiff;fSTS;random
+223.tiff;N1497_21_II2_HE - 2022-07-15 09.37.04.ndpix61819_y21033_z0_w7406_h5554.tiff;hAC;challenging
+224.tiff;N1396_21_I1_HE - 2022-07-15 09.20.04.ndpix84557_y57297_z0_w7406_h5554.tiff;hAC;challenging
+225.tiff;N180_20_I3 - 2021-10-21 11.15.01.ndpix34253_y50790_z0_w7406_h5554.tiff;hAC;challenging
+226.tiff;N1111_19 - 2021-10-21 11.27.55.ndpix94763_y53984_z0_w7406_h5554.tiff;hAC;challenging
+227.tiff;N145_20_2 - 2021-10-21 11.20.59.ndpix61236_y50642_z0_w7406_h5554.tiff;hAC;challenging
+228.tiff;N949_20 - 2021-10-21 11.07.30.ndpix31384_y83039_z0_w7406_h5554.tiff;hAC;challenging
+229.tiff;N71_22_HE - 2022-07-15 09.43.53.ndpix37673_y63961_z0_w7406_h5554.tiff;hAC;challenging
+230.tiff;N1009_19_I - 2021-10-21 11.47.39.ndpix63065_y31754_z0_w7406_h5554.tiff;hAC;challenging
+231.tiff;N1719_21_2_HE - 2022-07-15 09.28.14.ndpix109033_y80815_z0_w7406_h5554.tiff;hAC;challenging
+232.tiff;N1111_19 - 2021-10-21 11.27.55.ndpix127401_y36911_z0_w7406_h5554.tiff;hAC;random
+233.tiff;N1009_19_I - 2021-10-21 11.47.39.ndpix40789_y86167_z0_w7406_h5554.tiff;hAC;random
+234.tiff;N1396_21_I1_HE - 2022-07-15 09.20.04.ndpix86544_y31469_z0_w7406_h5554.tiff;hAC;random
+235.tiff;N71_22_HE - 2022-07-15 09.43.53.ndpix67045_y33629_z0_w7406_h5554.tiff;hAC;random
+236.tiff;N1497_21_II2_HE - 2022-07-15 09.37.04.ndpix50264_y55079_z0_w7406_h5554.tiff;hAC;random
+237.tiff;N180_20_I3 - 2021-10-21 11.15.01.ndpix31456_y69982_z0_w7406_h5554.tiff;hAC;random
+238.tiff;N949_20 - 2021-10-21 11.07.30.ndpix34968_y43754_z0_w7406_h5554.tiff;hAC;random
+239.tiff;N145_20_2 - 2021-10-21 11.20.59.ndpix5078_y62610_z0_w7406_h5554.tiff;hAC;random
+240.tiff;N1719_21_2_HE - 2022-07-15 09.28.14.ndpix90102_y26140_z0_w7406_h5554.tiff;hAC;random
+241.tiff;5_PUL2_HEx7560_y147401_z0_w6577_h4933.tiff;hBlC;challenging
+242.tiff;1-21-36780_HEx64559_y101665_z0_w6577_h4933.tiff;hBlC;challenging
+243.tiff;35_UTUL_HEx8883_y158748_z0_w6577_h4933.tiff;hBlC;challenging
+244.tiff;4_OTHB_HEx13360_y61959_z0_w6577_h4933.tiff;hBlC;challenging
+245.tiff;1_PRIM_2_HEx20549_y135653_z0_w6577_h4933.tiff;hBlC;challenging
+246.tiff;70_A_PRIM_HEx28342_y105110_z0_w6577_h4933.tiff;hBlC;challenging
+247.tiff;39_PER3_HEx16384_y86701_z0_w6577_h4933.tiff;hBlC;challenging
+248.tiff;260_TUR_2_HEx9531_y49101_z0_w6577_h4933.tiff;hBlC;challenging
+249.tiff;10_TUR_L_HEx49877_y68513_z0_w6577_h4933.tiff;hBlC;challenging
+250.tiff;117_TUR_HEx29727_y50840_z0_w6577_h4933.tiff;hBlC;challenging
+251.tiff;4_OTHB_HEx9682_y133341_z0_w6567_h4925.tiff;hBlC;random
+252.tiff;1_PRIM_2_HEx32249_y89111_z0_w6567_h4925.tiff;hBlC;random
+253.tiff;70_A_PRIM_HEx3830_y88012_z0_w6567_h4925.tiff;hBlC;random
+254.tiff;39_PER3_HEx38020_y114008_z0_w6567_h4925.tiff;hBlC;random
+255.tiff;260_TUR_2_HEx13190_y71106_z0_w6567_h4925.tiff;hBlC;random
+256.tiff;1-21-36780_HEx16710_y86488_z0_w6567_h4925.tiff;hBlC;random
+257.tiff;117_TUR_HEx31091_y62082_z0_w6566_h4925.tiff;hBlC;random
+258.tiff;10_TUR_L_HEx51190_y127491_z0_w6567_h4925.tiff;hBlC;random
+259.tiff;5_PUL2_HEx62207_y113370_z0_w6567_h4925.tiff;hBlC;random
+260.tiff;35_UTUL_HEx2233_y151154_z0_w6567_h4925.tiff;hBlC;random
+261.tiff;WF22-003 Colon UMCUtrecht - 2022-06-10 16.39.32x88201_y71814_z0_w7406_h5554.tiff;hCoC;challenging
+262.tiff;WF22-010 Colon UMCUtrecht - 2022-06-10 16.17.08x98174_y64468_z0_w7406_h5554.tiff;hCoC;challenging
+263.tiff;WF22-007 Colon UMCUtrecht - 2022-06-10 16.25.33x40879_y32840_z0_w7406_h5554.tiff;hCoC;challenging
+264.tiff;WF22-006 Colon UMCUtrecht - 2022-06-10 16.28.55x17170_y5664_z0_w7406_h5554.tiff;hCoC;challenging
+265.tiff;WF22-002 Colon UMCUtrecht - 2022-06-10 16.46.25x123497_y34798_z0_w7406_h5554.tiff;hCoC;challenging
+266.tiff;WF22-014 Colon UMCUtrecht - 2022-06-10 17.07.39x7775_y14044_z0_w7406_h5554.tiff;hCoC;challenging
+267.tiff;WF22-009 Colon UMCUtrecht - 2022-06-10 16.19.54x45528_y18653_z0_w7406_h5554.tiff;hCoC;challenging
+268.tiff;WF22-005 Colon UMCUtrecht - 2022-06-10 16.33.16x53909_y18129_z0_w7406_h5554.tiff;hCoC;challenging
+269.tiff;WF22-013 Colon UMCUtrecht - 2022-06-10 17.09.20x50438_y33995_z0_w7406_h5554.tiff;hCoC;challenging
+270.tiff;WF22-008 Colon UMCUtrecht - 2022-06-10 16.20.46x40552_y27767_z0_w7406_h5554.tiff;hCoC;challenging
+271.tiff;WF22-004 Colon UMCUtrecht - 2022-06-10 16.35.42x56352_y40827_z0_w7406_h5554.tiff;hCoC;challenging
+272.tiff;WF22-005 Colon UMCUtrecht - 2022-06-10 16.33.16x43179_y9323_z0_w7104_h5328.tiff;hCoC;random
+273.tiff;WF22-010 Colon UMCUtrecht - 2022-06-10 16.17.08x39970_y11887_z0_w7104_h5328.tiff;hCoC;random
+274.tiff;WF22-006 Colon UMCUtrecht - 2022-06-10 16.28.55x82395_y27740_z0_w7103_h5329.tiff;hCoC;random
+275.tiff;WF22-007 Colon UMCUtrecht - 2022-06-10 16.25.33x30087_y39935_z0_w7104_h5328.tiff;hCoC;random
+276.tiff;WF22-003 Colon UMCUtrecht - 2022-06-10 16.39.32x94522_y24787_z0_w7104_h5328.tiff;hCoC;random
+277.tiff;WF22-004 Colon UMCUtrecht - 2022-06-10 16.35.42x46708_y42070_z0_w7104_h5328.tiff;hCoC;random
+278.tiff;WF22-014 Colon UMCUtrecht - 2022-06-10 17.07.39x27209_y14857_z0_w7104_h5328.tiff;hCoC;random
+279.tiff;WF22-008 Colon UMCUtrecht - 2022-06-10 16.20.46x52608_y31452_z0_w7104_h5328.tiff;hCoC;random
+280.tiff;WF22-002 Colon UMCUtrecht - 2022-06-10 16.46.25x93105_y81936_z0_w7104_h5328.tiff;hCoC;random
+281.tiff;WF22-013 Colon UMCUtrecht - 2022-06-10 17.09.20x20474_y12462_z0_w7104_h5328.tiff;hCoC;random
+282.tiff;18688_22_A1_HE_20250115_1_x441951_y238263_z0_w13466_h10094.tiff;hGBM;challenging
+283.tiff;17876_22_A1_HE_20250115_1x62203_y246527_z0_w13466_h10094.tiff;hGBM;challenging
+284.tiff;1387_24_A4_HE_20241104_2x397500_y323980_z0_w13466_h10094.tiff;hGBM;challenging
+285.tiff;643_24_A1_HE_20241107_1x100726_y244295_z0_w13466_h10094.tiff;hGBM;challenging
+286.tiff;17136_22_Aa_HE_20241111_2x428920_y213016_z0_w13466_h10094.tiff;hGBM;challenging
+287.tiff;17113_22_A2_HE_20241111_1x57028_y238172_z0_w13466_h10094.tiff;hGBM;challenging
+288.tiff;15254_22_B3_HE_20241107_1x428953_y262194_z0_w13466_h10094.tiff;hGBM;challenging
+289.tiff;2142_24_A2_HE_20241104_2x420914_y263827_z0_w13466_h10094.tiff;hGBM;challenging
+290.tiff;243_24_A3_HE_20241107_1x179253_y235976_z0_w13466_h10094.tiff;hGBM;challenging
+291.tiff;15479_22_A2_HE_20241111_2x408759_y208598_z0_w13466_h10094.tiff;hGBM;challenging
+292.tiff;643_24_A1_HE_20241107_1x69813_y267665_z0_w13466_h10094.tiff;hGBM;random
+293.tiff;15254_22_B3_HE_20241107_1x408448_y111882_z0_w13466_h10094.tiff;hGBM;random
+294.tiff;2142_24_A2_HE_20241104_2x426013_y291094_z0_w13466_h10094.tiff;hGBM;random
+295.tiff;18688_22_A1_HE_20250115_1_x446643_y175127_z0_w13466_h10094.tiff;hGBM;random
+296.tiff;17876_22_A1_HE_20250115_1x120906_y190375_z0_w13466_h10094.tiff;hGBM;random
+297.tiff;243_24_A3_HE_20241107_1x113608_y156679_z0_w13466_h10094.tiff;hGBM;random
+298.tiff;15479_22_A2_HE_20241111_2x353344_y244447_z0_w13466_h10094.tiff;hGBM;random
+299.tiff;1387_24_A4_HE_20241104_2x404016_y235219_z0_w13466_h10094.tiff;hGBM;random
+300.tiff;17136_22_Aa_HE_20241111_2x477797_y286822_z0_w13466_h10094.tiff;hGBM;random
+301.tiff;17113_22_A2_HE_20241111_1x165146_y190373_z0_w13466_h10094.tiff;hGBM;random
+302.tiff;6214_23_A4_HE_20240730_1x151664_y184304_z0_w13466_h10094.tiff;hLUAD;challenging
+303.tiff;14674_24_A8_HE_20240923_1x124327_y191710_z0_w13466_h10094.tiff;hLUAD;challenging
+304.tiff;5064_21_A4_HE_20240813_1x109936_y316206_z0_w13466_h10094.tiff;hLUAD;challenging
+305.tiff;7117_21_A2_HE-20240722_2_20240724154041940x432035_y248448_z0_w13466_h10094.tiff;hLUAD;challenging
+306.tiff;6766_21_A3_HE_20240729_2_20240730112511703x382650_y177921_z0_w13466_h10094.tiff;hLUAD;challenging
+307.tiff;3674_21_A6_HE_20240827_2x386777_y262218_z0_w13466_h10094.tiff;hLUAD;challenging
+308.tiff;2987_21_A3_HE_20240730_2x426751_y284442_z0_w13466_h10094.tiff;hLUAD;challenging
+309.tiff;12104_24_A4_HE_20240911_1x135805_y131727_z0_w13466_h10094.tiff;hLUAD;challenging
+310.tiff;7532_21_A2_HE_20240729_1x119098_y163689_z0_w13466_h10094.tiff;hLUAD;challenging
+311.tiff;7394_21_A7_HE_20240729_1x124421_y292197_z0_w13466_h10094.tiff;hLUAD;challenging
+312.tiff;8394_24_A4_HE_20240911_2x471004_y188790_z0_w13466_h10094.tiff;hLUAD;challenging
+313.tiff;12880_24_A6_HE_20240923_1x104327_y152233_z0_w13466_h10094.tiff;hLUAD;challenging
+314.tiff;12880_24_A6_HE_20240923_1x170710_y192533_z0_w13466_h10094.tiff;hLUAD;random
+315.tiff;6214_23_A4_HE_20240730_1x156328_y227949_z0_w13466_h10094.tiff;hLUAD;random
+316.tiff;7532_21_A2_HE_20240729_1x52797_y215142_z0_w13466_h10094.tiff;hLUAD;random
+317.tiff;12104_24_A4_HE_20240911_1x86892_y170326_z0_w13466_h10094.tiff;hLUAD;random
+318.tiff;3674_21_A6_HE_20240827_2x369333_y178759_z0_w13466_h10094.tiff;hLUAD;random
+319.tiff;2987_21_A3_HE_20240730_2x349742_y253512_z0_w13466_h10094.tiff;hLUAD;random
+320.tiff;7394_21_A7_HE_20240729_1x91347_y150688_z0_w13466_h10094.tiff;hLUAD;random
+321.tiff;6766_21_A3_HE_20240729_2_20240730112511703x372122_y216335_z0_w13466_h10094.tiff;hLUAD;random
+322.tiff;8394_24_A4_HE_20240911_2x361993_y267689_z0_w13466_h10094.tiff;hLUAD;random
+323.tiff;5064_21_A4_HE_20240813_1x124643_y262980_z0_w13466_h10094.tiff;hLUAD;random
+324.tiff;7117_21_A2_HE-20240722_2_20240724154041940x372619_y116341_z0_w13466_h10094.tiff;hLUAD;random
+325.tiff;14674_24_A8_HE_20240923_1x61203_y144867_z0_w13466_h10094.tiff;hLUAD;random
+326.tiff;WF22-009 Melanoma UMCUtrecht - 2022-06-10 17.40.02.ndpix97005_y14317_z0_w7406_h5554.tiff;hMel;challenging
+327.tiff;WF22-004 Melanoma UMCUtrecht - 2022-06-10 16.56.23.ndpix84011_y50705_z0_w7406_h5554.tiff;hMel;challenging
+328.tiff;WF22-014 Melanoma UMCUtrecht - 2022-06-10 17.22.12.ndpix93853_y50581_z0_w7406_h5554.tiff;hMel;challenging
+329.tiff;WF22-007 Melanoma UMCUtrecht - 2022-06-10 17.44.45.ndpix111937_y61762_z0_w7406_h5554.tiff;hMel;challenging
+330.tiff;WF22-015 Melanoma UMCUtrecht - 2022-06-10 17.36.07.ndpix30446_y75964_z0_w7406_h5554.tiff;hMel;challenging
+331.tiff;WF22-001 Melanoma UMCUtrecht - 2022-06-10 17.06.44.ndpix8400_y23888_z0_w7406_h5554.tiff;hMel;challenging
+332.tiff;WF22-006 Melanoma UMCUtrecht - 2022-06-10 16.52.42.ndpix9391_y16663_z0_w7406_h5554.tiff;hMel;challenging
+333.tiff;WF22-002 Melanoma UMCUtrecht - 2022-06-10 17.05.32.ndpix22071_y13362_z0_w7406_h5554.tiff;hMel;challenging
+334.tiff;WF22-012 Melanoma UMCUtrecht - 2022-06-10 17.30.33.ndpix43581_y42528_z0_w7406_h5554.tiff;hMel;challenging
+335.tiff;WF22-011 Melanoma UMCUtrecht - 2022-06-10 17.33.33.ndpix103192_y13924_z0_w7406_h5554.tiff;hMel;challenging
+336.tiff;WF22-012 Melanoma UMCUtrecht - 2022-06-10 17.30.33.ndpix5000_y12087_z0_w7104_h5328.tiff;hMel;random
+337.tiff;WF22-006 Melanoma UMCUtrecht - 2022-06-10 16.52.42.ndpix49320_y41766_z0_w7104_h5328.tiff;hMel;random
+338.tiff;WF22-002 Melanoma UMCUtrecht - 2022-06-10 17.05.32.ndpix8199_y7912_z0_w7104_h5328.tiff;hMel;random
+339.tiff;WF22-015 Melanoma UMCUtrecht - 2022-06-10 17.36.07.ndpix51855_y75594_z0_w7104_h5328.tiff;hMel;random
+340.tiff;WF22-007 Melanoma UMCUtrecht - 2022-06-10 17.44.45.ndpix95719_y44916_z0_w7104_h5328.tiff;hMel;random
+341.tiff;WF22-001 Melanoma UMCUtrecht - 2022-06-10 17.06.44.ndpix30947_y22317_z0_w7104_h5328.tiff;hMel;random
+342.tiff;WF22-009 Melanoma UMCUtrecht - 2022-06-10 17.40.02.ndpix35222_y50600_z0_w7104_h5328.tiff;hMel;random
+343.tiff;WF22-004 Melanoma UMCUtrecht - 2022-06-10 16.56.23.ndpix47861_y70836_z0_w7104_h5328.tiff;hMel;random
+344.tiff;WF22-014 Melanoma UMCUtrecht - 2022-06-10 17.22.12.ndpix49345_y58800_z0_w7104_h5328.tiff;hMel;random
+345.tiff;WF22-011 Melanoma UMCUtrecht - 2022-06-10 17.33.33.ndpix18628_y20506_z0_w7104_h5328.tiff;hMel;random
+346.tiff;N1920_20_1_HE - 2021-10-01 22.09.44.ndpix64025_y17718_z0_w7406_h5554.tiff;hMen;challenging
+347.tiff;N533_21_Z_HE - 2021-10-01 23.36.44.ndpix17370_y67368_z0_w7406_h5554.tiff;hMen;challenging
+348.tiff;N632_21_Z_HE - 2021-10-01 21.30.48.ndpix7449_y44703_z0_w7406_h5554.tiff;hMen;challenging
+349.tiff;N644_21_II2_HE - 2021-10-01 23.27.33.ndpix11728_y35659_z0_w7406_h5554.tiff;hMen;challenging
+350.tiff;N704_21_2_HE - 2021-10-04 10.30.31.ndpix46360_y30527_z0_w7406_h5554.tiff;hMen;challenging
+351.tiff;N556_21_2_HE - 2021-10-04 10.19.32.ndpix124237_y51374_z0_w7406_h5554.tiff;hMen;challenging
+352.tiff;N380_21_I2_HE - 2021-10-01 21.22.10.ndpix84002_y81074_z0_w7406_h5554.tiff;hMen;challenging
+353.tiff;N711_21_Z_HE - 2021-10-04 09.59.41.ndpix13604_y59775_z0_w7406_h5554.tiff;hMen;challenging
+354.tiff;N546_21_III_HE - 2021-10-01 21.18.39.ndpix20733_y12341_z0_w7406_h5554.tiff;hMen;challenging
+355.tiff;N474_20_1_HE - 2021-10-01 22.20.28.ndpix64261_y14190_z0_w7406_h5554.tiff;hMen;challenging
+356.tiff;N533_21_Z_HE - 2021-10-01 23.36.44.ndpix74946_y74899_z0_w7406_h5554.tiff;hMen;random
+357.tiff;N556_21_2_HE - 2021-10-04 10.19.32.ndpix99070_y60663_z0_w7406_h5554.tiff;hMen;random
+358.tiff;N711_21_Z_HE - 2021-10-04 09.59.41.ndpix33244_y62385_z0_w7406_h5554.tiff;hMen;random
+359.tiff;N644_21_II2_HE - 2021-10-01 23.27.33.ndpix78190_y56217_z0_w7406_h5554.tiff;hMen;random
+360.tiff;N704_21_2_HE - 2021-10-04 10.30.31.ndpix20463_y25827_z0_w7406_h5554.tiff;hMen;random
+361.tiff;N546_21_III_HE - 2021-10-01 21.18.39.ndpix26112_y28923_z0_w7406_h5554.tiff;hMen;random
+362.tiff;N632_21_Z_HE - 2021-10-01 21.30.48.ndpix42976_y37448_z0_w7406_h5554.tiff;hMen;random
+363.tiff;N474_20_1_HE - 2021-10-01 22.20.28.ndpix67213_y35778_z0_w7406_h5554.tiff;hMen;random
+364.tiff;N1920_20_1_HE - 2021-10-01 22.09.44.ndpix31007_y35627_z0_w7406_h5554.tiff;hMen;random
+365.tiff;N380_21_I2_HE - 2021-10-01 21.22.10.ndpix12470_y28332_z0_w7406_h5554.tiff;hMen;random

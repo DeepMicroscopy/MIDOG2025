@@ -1,0 +1,77 @@
+Title of the paper I'm reviewing,Challenge track,Technical Clarity: The approach and the training are clearly described.,Innovation: The approach is novel or adds an innovative twist to an existing method.,"Formal: The paper is written well, clearly structured and easy to understand.","Were external (i.e., not provided by us) datasets used?",Were the external datasets available publicly before July 19th?,Recommendation,Sum Score,Average Score,Decision
+Teacher-Student Model for Detecting and Classifying Mitosis in the MIDOG 2025 Challenge,Both,5.0,5.0,5.0,yes,Yes,Excellent - I would fight to have this paper on the workshop,15.0,13.5,Accept
+Teacher-Student Model for Detecting and Classifying Mitosis in the MIDOG 2025 Challenge,Both,4.0,4.0,4.0,yes,Yes,Interesting for the workshop,12.0,,
+Automated Classification of Normal and Atypical Mitotic Figures Using ConvNeXt V2: MIDOG 2025 Track 2,Track 2 (Atypical Classification),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,13,Accept
+Automated Classification of Normal and Atypical Mitotic Figures Using ConvNeXt V2: MIDOG 2025 Track 2,Track 2 (Atypical Classification),5.0,4.0,4.0,no,,Interesting for the workshop,13.0,,
+A bag of tricks for real-time Mitotic Figure detection,Track 1 (Mitosis Detection),5.0,5.0,5.0,yes,Yes,Excellent - I would fight to have this paper on the workshop,15.0,14.5,Accept
+A bag of tricks for real-time Mitotic Figure detection,Track 1 (Mitosis Detection),5.0,4.0,5.0,yes,Yes,Interesting for the workshop,14.0,,
+"Mix, Align, Distil: Reliable Cross-Domain Atypical Mitosis Classification",Track 2 (Atypical Classification),5.0,4.0,5.0,yes,Yes,Excellent - I would fight to have this paper on the workshop,14.0,12,Accept
+"Mix, Align, Distil: Reliable Cross-Domain Atypical Mitosis Classification",Track 2 (Atypical Classification),3.0,3.0,4.0,yes,Yes,Borderline,10.0,,
+Classifying Mitotic Figures in the MIDOG25 Challenge with Deep Ensemble Learning and Rule Based Refinement,Track 2 (Atypical Classification),5.0,5.0,5.0,no,,Interesting for the workshop,15.0,15,Accept
+Classifying Mitotic Figures in the MIDOG25 Challenge with Deep Ensemble Learning and Rule Based Refinement,Track 2 (Atypical Classification),5.0,5.0,5.0,no,,Excellent - I would fight to have this paper on the workshop,15.0,,
+Mitosis detection in domain shift scenarios: a Mamba-based approach,Track 1 (Mitosis Detection),5.0,3.0,5.0,no,,Borderline,13.0,11.5,Accept
+Mitosis detection in domain shift scenarios: a Mamba-based approach,Track 1 (Mitosis Detection),4.0,3.0,3.0,no,,Interesting for the workshop,10.0,,
+A multi-task neural network for atypical mitosis recognition under domain shift,Track 2 (Atypical Classification),4.0,4.0,4.0,no,,Interesting for the workshop,12.0,12.5,Accept
+A multi-task neural network for atypical mitosis recognition under domain shift,Track 2 (Atypical Classification),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,,
+A Two-Stage Strategy for Mitosis Detection Using Improved YOLO11x Proposals and ConvNeXt Classification,Track 1 (Mitosis Detection),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,13.5,Accept
+A Two-Stage Strategy for Mitosis Detection Using Improved YOLO11x Proposals and ConvNeXt Classification,Track 1 (Mitosis Detection),5.0,4.0,5.0,no,,Interesting for the workshop,14.0,,
+Dual-Fusion Double-Ensemble (DFDE) Framework for Atypical Mitosis Classification,Track 2 (Atypical Classification),4.0,5.0,3.0,no,,Interesting for the workshop,12.0,13.5,Accept
+Dual-Fusion Double-Ensemble (DFDE) Framework for Atypical Mitosis Classification,Track 2 (Atypical Classification),5.0,5.0,5.0,no,,Interesting for the workshop,15.0,,
+MIDOG 2025: Mitotic Figure Detection with Attention-Guided False Positive Correction,Track 1 (Mitosis Detection),2.0,4.0,4.0,no,,Borderline,10.0,9.666666667,Accept
+MIDOG 2025: Mitotic Figure Detection with Attention-Guided False Positive Correction,Track 1 (Mitosis Detection),4.0,4.0,4.0,no,,Interesting for the workshop,12.0,,
+MIDOG 2025: Mitotic Figure Detection with Attention-Guided False Positive Correction,Track 1 (Mitosis Detection),2.0,2.0,3.0,no,,Not interesting for the workshop,7.0,,
+MitoDetect++: A Domain-Robust Pipeline for Mitosis Detection and Atypical Subtyping,Both,4.0,4.0,5.0,yes,Yes,Interesting for the workshop,13.0,11.5,Accept
+MitoDetect++: A Domain-Robust Pipeline for Mitosis Detection and Atypical Subtyping,Both,4.0,4.0,2.0,no,,Borderline,10.0,,
+Team Westwood Solution for MIDOG 2025  Challenge,Track 2 (Atypical Classification),3.0,4.0,4.0,no,,Interesting for the workshop,11.0,11,Accept
+Team Westwood Solution for MIDOG 2025 Challenge,Both,4.0,4.0,3.0,no,,Interesting for the workshop,11.0,,
+Multi-task Approach on MIDOG 2025  Challenge Track 2,Track 2 (Atypical Classification),3.0,3.0,3.0,yes,Yes,Borderline,9.0,9,Ignore
+Adaptive Learning Strategies for Mitotic Figure Classification in MIDOG2025 ,Track 2 (Atypical Classification),4.0,5.0,5.0,no,,Excellent - I would fight to have this paper on the workshop,14.0,14.5,Accept
+Adaptive Learning Strategies for Mitotic Figure Classification in MIDOG2025 ,Track 2 (Atypical Classification),5.0,5.0,5.0,no,,Interesting for the workshop,15.0,,
+RF-DETR for Robust Mitotic Figure Detection:  A MIDOG 2025 Track 1 Approach,Track 1 (Mitosis Detection),4.0,3.0,3.0,yes,Yes,Borderline,10.0,10,Accept (after discussion)
+RF-DETR for Robust Mitotic Figure Detection: A MIDOG 2025 Track 1 Approach,Track 1 (Mitosis Detection),4.0,2.0,4.0,yes,Yes,Borderline,10.0,,
+Ensemble YOLO Framework for Multi-Domain Mitotic Figure Detection in Histopathology Images,Track 1 (Mitosis Detection),4.0,3.0,,no,,Borderline,7.0,8.5,Accept (after discussion)
+Ensemble YOLO Framework for Multi-Domain Mitotic Figure Detection in Histopathology Images,Track 1 (Mitosis Detection),3.0,3.0,4.0,no,,Borderline,10.0,,
+Pan-Cancer mitotic figures detection and domain generalization: MIDOG 2025 Challenge,Both,4.0,3.0,4.0,yes,No (violation of the MIDOG rules),Interesting for the workshop,11.0,11,Accept
+Pan-Cancer mitotic figures detection and domain generalization: MIDOG 2025 Challenge,Both,3.0,3.0,5.0,yes,Yes,Interesting for the workshop,11.0,,
+Mitosis Detection in the Wild Using Detection Transformers,Track 1 (Mitosis Detection),5.0,4.0,4.0,yes,Yes,Excellent - I would fight to have this paper on the workshop,13.0,11.5,Accept
+Mitosis Detection in the Wild Using Detection  Transformers,Track 1 (Mitosis Detection),4.0,3.0,3.0,no,Yes,Borderline,10.0,,
+Sequential Hard Mining: a data-centric approach for Mitosis Detection,Both,3.0,3.0,4.0,no,,Borderline,10.0,11,Accept
+Sequential Hard Mining: a data-centric approach for Mitosis Detection,Both,5.0,4.0,3.0,no,,Interesting for the workshop,12.0,,
+MIDOG 2025 Track 2: A Deep Learning Model for Classification of Atypical and Normal Mitotic Figures under Class and Hardness  Imbalances,Track 2 (Atypical Classification),4.0,2.0,4.0,no,,Borderline,10.0,10.5,Accept
+MIDOG 2025 Track 2: A Deep Learning Model for Classification of Atypical and Normal Mitotic Figures under Class and Hardness Imbalances,Track 2 (Atypical Classification),4.0,3.0,4.0,no,,Interesting for the workshop,11.0,,
+Automated detection of mitotic figures in histopathology slides using object detection  frameworks,Track 1 (Mitosis Detection),3.0,2.0,2.0,no,,Not interesting for the workshop,7.0,9,Reject (after discussion)
+Automated detection of mitotic figures in histopathology slides using object detection frameworks,Track 1 (Mitosis Detection),4.0,3.0,4.0,no,,Interesting for the workshop,11.0,,
+Automated detection of mitotic figures in histopathology slides using object detection frameworks,Track 1 (Mitosis Detection),4.0,2.0,3.0,no,,Borderline,9.0,,
+Is Synthetic Image Augmentation Useful for Imbalanced Classification Problems? Case-Study on the MIDOG2025 Atypical Cell Detection Competition,Track 2 (Atypical Classification),4.0,2.0,3.0,yes,Yes,Interesting for the workshop,9.0,11,Accept
+Is Synthetic Image Augmentation Useful for Imbalanced Classification Problems? Case-Study on the MIDOG2025 Atypical Cell Detection Competition,Track 2 (Atypical Classification),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,,
+Robust Pan-Cancer Mitotic Figure Detection  with YOLOv12,Track 1 (Mitosis Detection),5.0,3.0,5.0,yes,Yes,Interesting for the workshop,13.0,13,Accept
+Robust Pan-Cancer Mitotic Figure Detection  with YOLOv12,Track 1 (Mitosis Detection),4.0,4.0,5.0,no,,Excellent - I would fight to have this paper on the workshop,13.0,,
+Parameter-efficient fine-tuning (PEFT) of Vision Foundation Models for Atypical Mitotic Figure Classification,Track 2 (Atypical Classification),4.0,3.0,4.0,no,,Interesting for the workshop,11.0,11.5,Accept
+Parameter-efficient fine-tuning (PEFT) of Vision Foundation Models for Atypical Mitotic Figure Classification,Track 2 (Atypical Classification),4.0,4.0,4.0,no,,Interesting for the workshop,12.0,,
+Foundation Model-Driven Classification of Atypical Mitotic Figures with Domain-Aware  Training Strategies,Track 2 (Atypical Classification),4.0,3.0,4.0,yes,Yes,Interesting for the workshop,11.0,12,Accept
+Foundation Model-Driven Classification of Atypical Mitotic Figures with Domain-Aware Training Strategies,Track 2 (Atypical Classification),4.0,4.0,5.0,yes,Yes,Interesting for the workshop,13.0,,
+Ensemble of Pathology Foundation Models for MIDOG 2025 Track 2: Atypical Mitosis  Classification,Track 2 (Atypical Classification),4.0,3.0,5.0,yes,Yes,Interesting for the workshop,12.0,11.5,Accept
+Ensemble of Pathology Foundation Models for MIDOG 2025 Track 2: Atypical Mitosis Classification,Track 2 (Atypical Classification),4.0,4.0,3.0,yes,Yes,Interesting for the workshop,11.0,,
+Efficient Fine-Tuning of DINOv3 Pretrained on Natural Images for Atypical Mitotic Figure Classification in MIDOG 2025,Track 2 (Atypical Classification),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,13,Accept
+Efficient Fine-Tuning of DINOv3 Pretrained on Natural Images for Atypical Mitotic Figure Classification in MIDOG 2025,Track 2 (Atypical Classification),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,,
+Normal and Atypical Mitosis Image Classifier using Efficient Vision Transformer,Track 2 (Atypical Classification),4.0,4.0,2.0,no,,Interesting for the workshop,10.0,9.5,Accept
+Normal and Atypical Mitosis Image Classifier using Efficient Vision Transformer,Track 2 (Atypical Classification),3.0,3.0,3.0,no,,Interesting for the workshop,9.0,,
+A DeepLabv3+ Approach for Mitotic Figure Detection in the MIDOG 2025 Challenge,Track 1 (Mitosis Detection),4.0,2.0,4.0,no,,Not interesting for the workshop,10.0,9.666666667,Reject (after discussion)
+A DeepLabv3+ Approach for Mitotic Figure Detection in the MIDOG 2025 Challenge,Track 1 (Mitosis Detection),4.0,3.0,4.0,no,,Interesting for the workshop,11.0,,
+A DeepLabv3+ Approach for Mitotic Figure Detection in the MIDOG 2025 Challenge,Track 1 (Mitosis Detection),3.0,2.0,3.0,,,Borderline,8.0,,
+Atypical Mitotic Figure Classification in MIDOG 2025 Using LoRA-Enhanced UNI Models,Track 2 (Atypical Classification),3.0,4.0,3.0,yes,Yes,Interesting for the workshop,10.0,8,Reject (after discussion)
+Atypical Mitotic Figure Classification in MIDOG 2025 Using LoRA-Enhanced UNI Models,Track 2 (Atypical Classification),2.0,2.0,2.0,yes,,Not interesting for the workshop,6.0,,
+Robust Atypical Mitosis Classification with DenseNet121: Stain-Aware Augmentation and Hybrid Loss for Domain Generalization,Track 2 (Atypical Classification),4.0,2.0,5.0,no,,Borderline,11.0,11,Accept (after discussion)
+Robust Atypical Mitosis Classification with DenseNet121: Stain-Aware Augmentation and Hybrid Loss for Domain Generalization,Track 2 (Atypical Classification),5.0,2.0,4.0,no,,Borderline,11.0,,
+A Single Detect Focused YOLO Framework for Robust Mitotic Figure Detection,Track 1 (Mitosis Detection),5.0,3.0,5.0,no,,Interesting for the workshop,13.0,13.5,Accept
+A Single Detect Focused YOLO Framework for Robust Mitotic Figure Detection,Track 1 (Mitosis Detection),5.0,4.0,5.0,no,,Interesting for the workshop,14.0,,
+,,,,,,,,0.0,,
+,,,,,,,,,Accept,25
+,,,,,,,,,,0
+,,,,,,,,,Accept after discussion,3
+,,,,,,,,,Ignor,1
+,,,,,,,,,reject,3
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,32
+,,,,,,,,,,32
