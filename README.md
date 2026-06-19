@@ -69,7 +69,7 @@ Data/
 
 **What is excluded** (never committed):
 - Per-image inference predictions (`mitotic-figures.json`, `multiple-mitotic-figure-classification.json`)
-- Raw test-set annotations (MIDOG 2022 SQLite, consensus CSVs) — these belong to the dataset repositories
+- Raw test-set annotations (MIDOG 2025 test set, consensus CSVs) — these belong to the dataset repositories
 - Full reviewer identities — `reviews_anonymized.csv` keeps only scores and decisions
 
 **Regenerating `Data/`** (requires access to the full paper workspace):
